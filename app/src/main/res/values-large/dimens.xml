@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Larger dimensions for tablets and larger devices -->
+    <dimen name="image_width">400dp</dimen>
+    <dimen name="image_height">300dp</dimen>
+    <dimen name="text_padding">24dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/category1"
+        android:title="Hotels"
+        app:iconTint="@color/pink"
+        android:icon="@drawable/resort_icon" />
+    <item
+        android:id="@+id/category2"
+        android:title="Restaurants"
+        app:iconTint="@color/pink"
+        android:icon="@drawable/restaurant_icon" />
+    <item
+        android:id="@+id/category3"
+        android:title="Grocery Centers"
+        app:iconTint="@color/pink"
+        android:icon="@drawable/grocery" />
+</menu>
